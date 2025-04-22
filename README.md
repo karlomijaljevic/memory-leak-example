@@ -1,9 +1,8 @@
 # Memory Leak Example - Diagnosing a Running JVM
 
 This research is primarily done to learn ways to diagnose memory leaks on
-running JVM instances when it comes to . This is the primal fear of every Java
-developer. I will tackle this with the most commonly used tool which is
-*VisualVM*.
+running JVM instances. I will tackle this with the most commonly used tool
+which is *VisualVM*.
 
 Note that the document is probably not in a complete state since I am still
 researching what and how to address memory leaks and issues.
